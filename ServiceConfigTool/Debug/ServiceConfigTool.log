@@ -1,0 +1,95 @@
+﻿  SimpleLogger.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  ServiceManage.cpp
+  ServiceConfig.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  PageManage.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  PageBaseUI.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  Other.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  MsgTip.cpp
+  MainUI.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\serviceconfigtool\mainui.cpp(92): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\work\tool\serviceconfigtool\serviceconfigtool\mainui.cpp(271): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\work\tool\serviceconfigtool\serviceconfigtool\mainui.cpp(292): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  main.cpp
+e:\work\tool\serviceconfigtool\serviceconfigtool\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\work\tool\serviceconfigtool\include_libs\duilib\include\core\uimanager.h(64): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::MSGTYPE_UI”的左侧
+  正在生成代码...
+e:\work\tool\serviceconfigtool\serviceconfigtool\mainui.cpp(309): warning C4715: “CMainUI::HandleCustomMessage”: 不是所有的控件路径都返回值
+e:\work\tool\serviceconfigtool\serviceconfigtool\serviceconfig.cpp(126): warning C4715: “CServiceConfigUI::GetEditContent”: 不是所有的控件路径都返回值
+DuiLib.lib(UIIPAddressEx.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIIPAddressEx.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIRollText.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIRollText.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIAnimation.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIAnimation.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIColorPalette.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIColorPalette.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIFadeButton.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIFadeButton.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIGifAnim.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIGifAnim.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIGroupBox.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIGroupBox.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIHotKey.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIHotKey.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIIPAddress.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIIPAddress.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIListEx.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIListEx.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIMenu.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIMenu.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIRing.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIRing.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(ControlFactory.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(ControlFactory.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIResourceManager.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIResourceManager.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIAnimationTabLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIAnimationTabLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(StdAfx.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(StdAfx.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(DPI.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(DPI.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(DragDropImpl.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(DragDropImpl.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(TrayIcon.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(TrayIcon.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIShadow.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIShadow.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(unzip.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(unzip.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(WinImplBase.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(WinImplBase.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIDelegate.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIDelegate.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(Utils.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(Utils.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIBase.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIBase.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIContainer.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIContainer.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIControl.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIControl.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIDlgBuilder.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIDlgBuilder.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIManager.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIManager.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIMarkup.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIMarkup.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIRender.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIRender.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIChildLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIChildLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIHorizontalLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIHorizontalLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UITabLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UITabLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UITileLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UITileLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIVerticalLayout.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIVerticalLayout.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIActiveX.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIActiveX.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIButton.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIButton.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UICombo.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UICombo.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIComboBox.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIComboBox.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIDateTime.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIDateTime.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIEdit.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIEdit.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIFlash.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIFlash.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UILabel.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UILabel.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIList.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIList.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIOption.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIOption.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIProgress.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIProgress.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIRichEdit.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIRichEdit.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIScrollBar.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIScrollBar.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UISlider.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UISlider.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIText.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIText.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UITreeView.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UITreeView.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DuiLib.lib(UIWebBrowser.obj) : warning LNK4099: 未找到 PDB“DuiLib.pdb”(使用“DuiLib.lib(UIWebBrowser.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\DuiLib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lib_json.lib(json_reader.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“lib_json.lib(json_reader.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lib_json.lib(json_value.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“lib_json.lib(json_value.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+lib_json.lib(json_writer.obj) : warning LNK4099: 未找到 PDB“lib_json.pdb”(使用“lib_json.lib(json_writer.obj)”或在“E:\Work\Tool\ServiceConfigTool\Debug\lib_json.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ServiceConfigTool.vcxproj -> E:\Work\Tool\ServiceConfigTool\Debug\ServiceConfigTool.exe
+  ServiceConfigTool.vcxproj -> E:\Work\Tool\ServiceConfigTool\Debug\ServiceConfigTool.pdb (Full PDB)

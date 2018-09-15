@@ -1,0 +1,27 @@
+[2018-07-06 11:37:19][main.cpp][35]                         	Version=1.0.2
+[2018-07-06 11:37:19][ServiceConfig.cpp][19]                	m_strFileName=E:\Work\Tool\ServiceConfigTool\bin\..\data\etc\vas-manager.conf
+[2018-07-06 11:37:27][main.cpp][35]                         	Version=1.0.2
+[2018-07-06 11:37:27][main.cpp][40]                         	error=5
+[2018-07-06 11:37:27][main.cpp][51]                         	FindWindow failed..
+[2018-07-06 11:38:22][main.cpp][35]                         	Version=1.0.2
+[2018-07-06 11:38:22][main.cpp][40]                         	error=5
+[2018-07-06 11:38:22][main.cpp][51]                         	FindWindow failed..
+[2018-07-06 13:31:02][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:31:02][ServiceConfig.cpp][19]                	m_strFileName=E:\Work\Tool\ServiceConfigTool\bin\..\data\etc\vas-manager.conf
+[2018-07-06 13:31:10][ServiceManage.cpp][144]               	Start servcie "v" success.
+[2018-07-06 13:31:15][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:31:15][main.cpp][41]                         	error=5
+[2018-07-06 13:31:15][main.cpp][44]                         	FindWindow success
+[2018-07-06 13:31:31][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:31:31][main.cpp][41]                         	error=5
+[2018-07-06 13:31:31][main.cpp][44]                         	FindWindow success
+[2018-07-06 13:33:09][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:33:09][ServiceConfig.cpp][19]                	m_strFileName=E:\Work\Tool\ServiceConfigTool\bin\..\data\etc\vas-manager.conf
+[2018-07-06 13:48:32][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:48:32][main.cpp][42]                         	FindWindow success
+[2018-07-06 13:48:48][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:48:48][main.cpp][42]                         	FindWindow success
+[2018-07-06 13:49:00][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:49:00][main.cpp][42]                         	FindWindow success
+[2018-07-06 13:49:06][main.cpp][36]                         	Version=1.0.2
+[2018-07-06 13:49:07][ServiceConfig.cpp][19]                	m_strFileName=E:\Work\Tool\ServiceConfigTool\bin\..\data\etc\vas-manager.conf
